@@ -1,5 +1,5 @@
 import pygame
-
+#hello this is simer
 import random 
 import sys 
 pygame.init() 
